@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hen-rr-y-c-e-s-s-a.github.io/content-lib/sitemap.xml
